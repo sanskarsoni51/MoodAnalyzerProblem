@@ -1,2 +1,5 @@
-package com.bridgelabz;public class MoodAnalyzerTest {
+package com.bridgelabz;
+
+public class MoodAnalyzerTest {
+
 }
